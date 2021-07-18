@@ -6,10 +6,11 @@ Flask==1.1.2
 fpdf==1.7.2
 idna==2.10
 itsdangerous==1.1.0
-Jinja2==2.11.2
+jinja2> = 2.11.3
 MarkupSafe==1.1.1
 requests==2.23.0
 trafaret==2.0.2
-urllib3==1.25.11
+urllib3> = 1.26.5
 Werkzeug==1.0.1
 WTForms==2.3.3
+
